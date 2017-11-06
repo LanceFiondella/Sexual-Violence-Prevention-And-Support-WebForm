@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('stay-safe-ng App', () => {
+describe('stay-safe-angular App', () => {
   let page: AppPage;
 
   beforeEach(() => {
